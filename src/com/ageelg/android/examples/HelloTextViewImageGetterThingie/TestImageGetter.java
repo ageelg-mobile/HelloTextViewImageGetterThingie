@@ -34,14 +34,13 @@ public class TestImageGetter extends Activity implements ImageGetter {
        
                 
             
-        String source =  "<p>ÊÌÑÈÉ textview ÈÇáÕæÑ <p>"
-        		
-        		+"<p><img alt=\"ÈØæáÉ ÇáÇÊÍÇÏ ÇáÓÚæÏí ááãÕäİíä ááÊäÓ ÇáÃÑÖí\" id=\"imgID_14564\""
+        String source =  "<p> ØªØ¬Ø±Ø¨Ø© textview Ø¨Ø§Ù„ØµÙˆØ±<p>"
+        		+"<p><img alt=\"random text\" id=\"imgID_14564\""
 				+"src=\"http://cdn29.elitedaily.com/wp-content/uploads/2014/04/zp6mpfoikd6l7mgevdjb.jpg\" style=\"width:" 
-				+"375px; height: 249px; margin: 5px;\" /><img alt=\"ÈØæáÉ ÇáÇÊÍÇÏ" 
-				+"ÇáÓÚæÏí ááãÕäİíä ááÊäÓ ÇáÃÑÖí\" id=\"imgID_14565\" src=\"http://cdn29.elitedaily.com/wp-content/uploads/2014/04/nn6pauri634w0upffij5.jpg\" style=\"width: 375px;" 
+				+"375px; height: 249px; margin: 5px;\" /><img alt=\"random text" 
+				+"\" id=\"imgID_14565\" src=\"http://cdn29.elitedaily.com/wp-content/uploads/2014/04/nn6pauri634w0upffij5.jpg\" style=\"width: 375px;" 
 				+"height: 262px; margin: 5px;\" /></p>"
-        		+"<h1> ßáÇã ÇÖÇİí æ ÊÚÇáíŞ Úáì ÇáÕæÑ </h1>" ;
+        		+"<h1> ÙƒÙ„Ø§Ù… Ø§Ø¶Ø§ÙÙŠ ÙˆØªØ¹Ø§Ù„ÙŠÙ‚ Ø¹Ù„Ù‰ Ø§Ù„ØµÙˆØ± </h1>" ;
         
       
         
